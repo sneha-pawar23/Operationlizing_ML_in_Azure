@@ -1,8 +1,17 @@
 _NOTE:_ This file is a template that you can use to create the README for your project. The _TODO_ comments below will highlight the information you should be sure to include sneha.
 
-# Your Project Title Here
+# Operationalizing The Machine Learning Model In Azure
 
-_TODO:_ Write an overview to your project.
+The objective of this project is to build a machine learning model using Azure Container Services.We are provided with the banking dataset. The main steps to be followed to perform project are as follows:-
+
+1) Authentication
+2) Automated ML Experiment
+3) Deploy the best model
+4) Enable logging
+5) Swagger Documentation
+6) Consume model endpoints
+7) Create and publish a pipeline
+9) Documentation
 
 ## Architectural Diagram
 
