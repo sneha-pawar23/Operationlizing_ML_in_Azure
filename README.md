@@ -15,7 +15,8 @@ The main objective of this project is to build a machine learning model using Az
 
 ![diagram](screenshots/image.png)
 
-_TODO_: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model".
+### AUTHENTICATION:-
+
 
 ## Key Steps
 
