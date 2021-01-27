@@ -22,6 +22,8 @@ Authentication types :-
  2) Token based
  3) Interactive
  
+ :pushpin: **AutoML model** :- AutoMl is the process of automating the time consuming iterative tasks ofmachine learning models.AutoML iterates the eaxh and every mchine learning algorithms for the particular datasets which we assigned in azure and gives us the results of each algorithm.With automated machinelearning, you'll accelerate the time it takes to get production ready ML models with great ease and efficency.During training period,AutoML creates a several pipelines in parallel which tries different algorithms,parameters,feature selections and also with different metrices and produces a model with a trainig score.
+ 
 
 
 ## Key Steps
