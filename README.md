@@ -1,4 +1,4 @@
-# Operationalizing The Machine Learning Model In Azure
+# :star: Operationalizing The Machine Learning Model In Azure
 
 The main objective of this project is to build a machine learning model using Azure Container Services.We are provided with the banking dataset. The main steps to be followed to perform project are as follows :-
 
