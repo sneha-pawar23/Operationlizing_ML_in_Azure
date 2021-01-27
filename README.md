@@ -15,7 +15,7 @@ The main objective of this project is to build a machine learning model using Az
 
 ![diagram](screenshots/image.png)
 
-**Authentication**:- Authentication is crucial for the continuous flow of operations, continuous Integration and delivery system(CI/CD) rely on uninterrupted flows.
+**Authentication**:- Authentication is crucial for the continuous flow of operations, continuous Integration and delivery system(CI/CD) rely on uninterrupted flows. If authentication is not set properly it requires human interactions and thus the flow is interrupted. Thus, its good to use authentication with automation because in ideal scenario the system doesn't stop waiting for a user to input a password.
 
 
 ## Key Steps
