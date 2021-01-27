@@ -17,6 +17,12 @@ The main objective of this project is to build a machine learning model using Az
 
 **Authentication**:- Authentication is crucial for the continuous flow of operations, continuous Integration and delivery system(CI/CD) rely on uninterrupted flows. If authentication is not set properly it requires human interactions and thus the flow is interrupted. Thus, its good to use authentication with automation because in ideal scenario the system doesn't stop waiting for a user to input a password.
 
+Authentication types :-
+ 1) Key based
+ 2) Token based
+ 3) Interactive
+ 
+
 
 ## Key Steps
 
