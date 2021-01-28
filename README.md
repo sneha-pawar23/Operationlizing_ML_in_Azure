@@ -31,15 +31,15 @@ Authentication types :-
  :pushpin: **Consume model endpoint** :-Here the endpoints allow other services to interact with deployed models.
              There are some interesting details we need to be aware of when trying to use HTTP and you will go through each of these:-
              
-                    1) Swagger
+   1) Swagger
                     
-                    2) Consuming deployed services 
+   2) Consuming deployed services 
                     
-                    3) Benchmarking
+   3) Benchmarking
                     
-      **Swagger** : A tool that eases the documentation efforts of HTTP API's.
+ * Swagger : A tool that eases the documentation efforts of HTTP API's.
   
-      **Benchmarking** : Being able to create a baseline of acceptable performance so that it can be compared day-to-day behavior.
+ * Benchmarking : Being able to create a baseline of acceptable performance so that it can be compared day-to-day behavior.
   
  :pushpin: **Create and publish a pipeline** :-
   
