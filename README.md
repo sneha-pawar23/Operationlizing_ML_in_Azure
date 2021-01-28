@@ -11,7 +11,7 @@ The main objective of this project is to build a machine learning model using Az
 7) Create and publish a pipeline
 9) Documentation
 
-## :star: Architectural Diagram
+# :star: Architectural Diagram
 
 ![diagram](screenshots/image.png)
 
@@ -26,15 +26,15 @@ Authentication types :-
  
 
 
-## :star: Key Steps
+# :star: Key Steps
 
 _TODO_: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps.
 
-## :star: Screen Recording
+# :star: Screen Recording
 
 _TODO_ Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## :star: References
+# :star: References
 
 :sparkles: [Microsoft_documentation](https://docs.microsoft.com/en-us/documentation/)
 
