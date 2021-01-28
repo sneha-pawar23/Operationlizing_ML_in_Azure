@@ -36,7 +36,7 @@ _TODO_ Provide a link to a screen recording of the project in action. Remember t
 
 # :star: References
 
-:collision: [Microsoft_documentation](https://docs.microsoft.com/en-us/documentation/)
+:sparkles: [Microsoft_documentation](https://docs.microsoft.com/en-us/documentation/)
 
 :sparkles: [set_up_authentication](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication)
 
@@ -51,4 +51,10 @@ _TODO_ Provide a link to a screen recording of the project in action. Remember t
 :sparkles: [How_to_consume_webservice](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-consume-web-service?tabs=python)
 
 :sparkles: [Apache_benchmark_tool](https://httpd.apache.org/docs/2.4/programs/ab.html)
+
+:sparkles: [Machinelearning_pipelines](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
+
+:sparkles: [Create_run_ML_Pipeline](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-machine-learning-pipelines)
+
+:sparkles: [Pipeline_endpoint_class](https://docs.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.pipeline_endpoint.pipelineendpoint?view=azure-ml-py)
 
