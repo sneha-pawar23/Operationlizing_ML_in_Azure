@@ -35,6 +35,7 @@ Authentication types :-
                     3) Benchmarking
                     
   **Swagger** : A tool that eases the documentation efforts of HTTP API's.
+  
   **Benchmarking** : Being able to create a baseline of acceptable performance so that it can be compared day-to-day behavior.
   
  :pushpin: **Create and publish a pipeline** :-
