@@ -34,6 +34,6 @@ _TODO_: Write a short discription of the key steps. Remeber to include all the s
 
 _TODO_ Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## :star: Standout Suggestions
+## :star: References
 
-_TODO (Optional):_ This is where you can provide information about any standout suggestions that you have attempted.
+![Microsoft_documentation](https://docs.microsoft.com/en-us/documentation/)
