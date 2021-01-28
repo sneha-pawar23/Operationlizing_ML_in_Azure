@@ -37,8 +37,11 @@ _TODO_ Provide a link to a screen recording of the project in action. Remember t
 ## :star: References
 
 [Microsoft_documentation](https://docs.microsoft.com/en-us/documentation/)
+
 [set_up_authentication](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication)
+
 [Application_insights](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-enable-app-insights)
+
 [troubleshooting](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-troubleshoot-deployment?tabs=azcli)
 [compute_instance](https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-instance)
 [Swagger_home_page](https://swagger.io/tools/swagger-ui/)
