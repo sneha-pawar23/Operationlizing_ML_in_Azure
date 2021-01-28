@@ -36,7 +36,7 @@ _TODO_ Provide a link to a screen recording of the project in action. Remember t
 
 # :star: References
 
-:sparkles: [Microsoft_documentation](https://docs.microsoft.com/en-us/documentation/)
+:collision: [Microsoft_documentation](https://docs.microsoft.com/en-us/documentation/)
 
 :sparkles: [set_up_authentication](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication)
 
