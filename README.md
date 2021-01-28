@@ -36,4 +36,4 @@ _TODO_ Provide a link to a screen recording of the project in action. Remember t
 
 ## :star: References
 
-![Microsoft_documentation](https://docs.microsoft.com/en-us/documentation/)
+[Microsoft_documentation](https://docs.microsoft.com/en-us/documentation/)
