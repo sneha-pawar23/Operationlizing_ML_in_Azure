@@ -1,6 +1,7 @@
 # :star: Operationalizing The Machine Learning Model In Azure
 
-The main objective of this project is to build a machine learning model using Azure Container Services.We are provided with the banking dataset. The main steps to be followed to perform project are as follows :-
+This project is part of the Udacity Azure ML nanodegree.In this project,we use both Azure ML studio and pyhton SDK to build Automated ML experiment to deploy the best model by enabling authentication.Then, we enable the Application Insights to review importatnt information about the service when consuming the model.And, finally we will create, publish and interact with a pipeline.The main objective of this project is to build a machine learning model using Azure Container Services.We are provided with the banking dataset.
+The main steps to be followed to perform project are as follows :-
 
 1) Authentication
 2) Automated ML Experiment
