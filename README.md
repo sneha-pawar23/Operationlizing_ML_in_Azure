@@ -64,7 +64,7 @@ _TODO_: Write a short discription of the key steps. Remeber to include all the s
 
 # :star: Screen Recording
 
-_TODO_ Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+The whole project demo is implemented in the [recording](https://drive.google.com/file/d/1yCudhaKlDwIoxo_z8gYCRbqYl54R_FVB/view?usp=sharing) section.
 
 # :star: References
 
