@@ -60,7 +60,9 @@ Authentication types :-
 
 # :star: Key Steps
 
-_TODO_: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps.
+1) Authentication
+
+![Auth](screenshots/Authentication.png)
 
 # :star: Screen Recording
 
