@@ -54,7 +54,7 @@ Authentication types :-
  
  **Publish a pipeline** :- Publishing a pipeline is the process of making a pipeline publicaly available.We can publish pipelines in azure machine learning studio,but we can also do it with python SDK.When pipeline is published, a public HTTP endpoint becomes available, allowing other services, including external ones to interact with an azure pipelines.
  
- :pushpin: **Documentation** :- I have documentated the process by creating the screencast of the project as well as this readme.md file describes the complete process of the second project. 
+ :pushpin: **Documentation** :- I have documented the process by creating the screencast of this project as well as this readme.md file describes the complete process of the second project. 
   
 
 
