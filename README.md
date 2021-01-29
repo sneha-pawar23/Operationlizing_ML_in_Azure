@@ -42,7 +42,17 @@ Authentication types :-
   
  * Benchmarking : Being able to create a baseline of acceptable performance so that it can be compared day-to-day behavior.
   
- :pushpin: **Create and publish a pipeline** :- [drive](https://drive.google.com/file/d/1L1zuGiRxulrZWqH_iafDlsUeZjmF4ZWG/view?usp=sharing)
+ :pushpin: **Create and publish a pipeline** :- Automation is the core pillar of Deveops applicable to machine learning operations.A good features of azure is pipelines and there are closely related to automation.Some key factors covered about pipelines are:-
+ 
+ 1) Creating a pipeline
+ 
+ 2) Publishing a pipeline
+ 
+ 3) Interacting with a pipeline via HTTP API endpoint
+ 
+ **Create a pipeline** :- This is the most common python SDK class you will see when dealing with the pipelines.Aside from accepting a workspace and allowing multiple steps to bepassed in,it uses a description that is useful to identify it later.
+ 
+ **Publish a pipeline** :- Publishing a pipeline is the process of making a pipeline publicaly available.We can publish pipelines in azure machine learning studio,but we can also do it with python SDK.When pipeline is published, a public HTTP endpoint becomes available, allowing other services, including external ones to interact with an azure pipelines.
   
 
 
