@@ -78,6 +78,10 @@ Authentication types :-
 
 ![voting](screenshots/voting.png)
 
+3) Deploy the best model
+
+
+
 # :star: Screen Recording
 
 The whole project demo is implemented in the [recording](https://drive.google.com/file/d/1yCudhaKlDwIoxo_z8gYCRbqYl54R_FVB/view?usp=sharing) section.
