@@ -112,6 +112,14 @@ Authentication types :-
 
 ![data](screenshots/datajsonfile.png)
 
+
+
+![bench](screenshots/benchmark1.png)
+
+![bench2](screenshots/benchmark2.png)
+
+![bench](screenshots/benchmark3.png)
+
 7) **Create and Publish Pipeline**
 
 ![pip](screenshots/pipeline1.png)
