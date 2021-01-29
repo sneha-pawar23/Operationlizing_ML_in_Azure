@@ -80,6 +80,48 @@ Authentication types :-
 
 3) Deploy the best model
 
+![app](screenshots/application enable.png)
+
+![app2](screenshots/application enable1.png)
+
+4) Enable Logging
+
+![applog](screenshots/application_logging.png)
+
+![apping](screenshots/true_applicationinsights.png)
+
+![app3](screenshots/application3.png)
+
+5) Swagger Documentation
+
+![swag1](screenshots/Swagger_log1.png)
+
+![swag2](screenshots/Swagger_log2.png)
+
+![swag3](screenshots/Swagger_log3.png)
+
+![swag11](screenshots/Swagger_2.png)
+
+![swag4](screenshots/Swagger_log4.png)
+
+6) Consume Model Endpoints
+
+![end1](screenshots/endpoint1.png)
+
+![end2](screenshots/endpoint2.png)
+
+![data](screenshots/datajsonfile.png)
+
+7) Create and Publish Pipeline
+
+![pip](screenshots/pipeline1.png)
+
+![pip3](screenshots/pipeline_3.png)
+
+![pip5](screenshots/pipeline_5.png)
+
+![pip9](screenshots/pipeline9.png)
+
 
 
 # :star: Screen Recording
