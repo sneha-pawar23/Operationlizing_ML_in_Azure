@@ -62,7 +62,21 @@ Authentication types :-
 
 1) Authentication
 
-![Auth](screenshots/Authentication.png)
+![Auth](screenshots/authentication.png)
+
+2) Automated ML Experiment
+
+![dataset](screenshots/dataset.png)
+
+![run](screenshots/run1.png)
+
+![run2](screenshots/run2.png)
+
+![run3](screenshots/run3.png)
+
+![run11](screenshots/run11.png)
+
+![voting](screenshots/voting.png)
 
 # :star: Screen Recording
 
