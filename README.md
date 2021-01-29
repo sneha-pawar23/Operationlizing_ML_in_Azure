@@ -64,7 +64,7 @@ Authentication types :-
 
 ![Auth](screenshots/authentication.png)
 
-2) **Automated ML Experiment**
+2) **Automated ML Experiment** :- First we need to register the dataset,run the notebook to build AutoML model for BankMarketing Dataset,Here VotingEnsemble is the best model.
 
 ![dataset](screenshots/dataset.png)
 
@@ -78,13 +78,13 @@ Authentication types :-
 
 ![voting](screenshots/voting.png)
 
-3) **Deploy the best model**
+3) **Deploy the best model** :- After getting a best model need to deploy the model in Azure Container Instance.
 
 ![app](screenshots/application_enable.png)
 
 ![app2](screenshots/application_enable1.png)
 
-4) **Enable Logging**
+4) **Enable Logging** :- Download a config.json file which holdes information to understand where we need to go in which workspace we need to be associated with.Paste config.json file in the current directory.Its nice way to automate where and with whom we are interacting with.Execute LOGS.PY file,you can see in endpoint section that application insights is enabled that's nothing but true.
 
 ![applog](screenshots/application_logging.png)
 
@@ -92,7 +92,7 @@ Authentication types :-
 
 ![app3](screenshots/application3.png)
 
-5) **Swagger Documentation**
+5) **Swagger Documentation** :- After enabling application insights,In endpoint section click on swagger.json file,download it and paste in the swagger folder where serve.py and swagger.sh is present.If port 80 is not working then switch tp port 8000 or above 8000 which is a good choice to interact with swagger ui.Swagger serve grabs this information and it will transform it into the beautiful website.
 
 ![swag1](screenshots/Swagger_log1.png)
 
@@ -104,7 +104,7 @@ Authentication types :-
 
 ![swag4](screenshots/Swagger_2.png)
 
-6) **Consume Model Endpoints**
+6) **Consume Model Endpoints** :-In endpoint section, In consume section we get REST endpoint and primary key copy it and again go to terminal make changes in the endpoint.py.Replace scoring_uri and key with present best deployed model REST endpoint and primary key.We get data.json file which holds information.Then execute benchmark.sh to get baseline for the model.
 
 ![end1](screenshots/endpoint1.png)
 
@@ -120,7 +120,7 @@ Authentication types :-
 
 ![bench](screenshots/benchmark3.png)
 
-7) **Create and Publish Pipeline**
+7) **Create and Publish Pipeline** :- Publish pipeline means making pipeline publically available.
 
 ![pip](screenshots/pipeline1.png)
 
