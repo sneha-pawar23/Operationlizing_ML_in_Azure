@@ -60,11 +60,11 @@ Authentication types :-
 
 # :star: Key Steps
 
-1) Authentication
+1) **Authentication** 
 
 ![Auth](screenshots/authentication.png)
 
-2) Automated ML Experiment
+2) **Automated ML Experiment**
 
 ![dataset](screenshots/dataset.png)
 
@@ -78,13 +78,13 @@ Authentication types :-
 
 ![voting](screenshots/voting.png)
 
-3) Deploy the best model
+3) **Deploy the best model**
 
-![app](screenshots/application enable.png)
+![app](screenshots/application_enable.png)
 
-![app2](screenshots/application enable1.png)
+![app2](screenshots/application_enable1.png)
 
-4) Enable Logging
+4) **Enable Logging**
 
 ![applog](screenshots/application_logging.png)
 
@@ -92,7 +92,7 @@ Authentication types :-
 
 ![app3](screenshots/application3.png)
 
-5) Swagger Documentation
+5) **Swagger Documentation**
 
 ![swag1](screenshots/Swagger_log1.png)
 
@@ -100,11 +100,11 @@ Authentication types :-
 
 ![swag3](screenshots/Swagger_log3.png)
 
-![swag11](screenshots/Swagger_2.png)
+![swag11](screenshots/swagger_log4.png)
 
-![swag4](screenshots/Swagger_log4.png)
+![swag4](screenshots/Swagger_2.png)
 
-6) Consume Model Endpoints
+6) **Consume Model Endpoints**
 
 ![end1](screenshots/endpoint1.png)
 
@@ -112,13 +112,13 @@ Authentication types :-
 
 ![data](screenshots/datajsonfile.png)
 
-7) Create and Publish Pipeline
+7) **Create and Publish Pipeline**
 
 ![pip](screenshots/pipeline1.png)
 
-![pip3](screenshots/pipeline_3.png)
+![pip3](screenshots/Pipeline_3.png)
 
-![pip5](screenshots/pipeline_5.png)
+![pip5](screenshots/Pipeline_5.png)
 
 ![pip9](screenshots/pipeline9.png)
 
